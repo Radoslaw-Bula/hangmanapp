@@ -1,0 +1,15 @@
+C:\Users\makis\OneDrive\Pulpit\hangman\wisielec\wisielec\bin\Debug\net6.0\wisielec.exe
+C:\Users\makis\OneDrive\Pulpit\hangman\wisielec\wisielec\bin\Debug\net6.0\wisielec.deps.json
+C:\Users\makis\OneDrive\Pulpit\hangman\wisielec\wisielec\bin\Debug\net6.0\wisielec.runtimeconfig.json
+C:\Users\makis\OneDrive\Pulpit\hangman\wisielec\wisielec\bin\Debug\net6.0\wisielec.dll
+C:\Users\makis\OneDrive\Pulpit\hangman\wisielec\wisielec\bin\Debug\net6.0\wisielec.pdb
+C:\Users\makis\OneDrive\Pulpit\hangman\wisielec\wisielec\obj\Debug\net6.0\wisielec.csproj.AssemblyReference.cache
+C:\Users\makis\OneDrive\Pulpit\hangman\wisielec\wisielec\obj\Debug\net6.0\wisielec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makis\OneDrive\Pulpit\hangman\wisielec\wisielec\obj\Debug\net6.0\wisielec.AssemblyInfoInputs.cache
+C:\Users\makis\OneDrive\Pulpit\hangman\wisielec\wisielec\obj\Debug\net6.0\wisielec.AssemblyInfo.cs
+C:\Users\makis\OneDrive\Pulpit\hangman\wisielec\wisielec\obj\Debug\net6.0\wisielec.csproj.CoreCompileInputs.cache
+C:\Users\makis\OneDrive\Pulpit\hangman\wisielec\wisielec\obj\Debug\net6.0\wisielec.dll
+C:\Users\makis\OneDrive\Pulpit\hangman\wisielec\wisielec\obj\Debug\net6.0\refint\wisielec.dll
+C:\Users\makis\OneDrive\Pulpit\hangman\wisielec\wisielec\obj\Debug\net6.0\wisielec.pdb
+C:\Users\makis\OneDrive\Pulpit\hangman\wisielec\wisielec\obj\Debug\net6.0\wisielec.genruntimeconfig.cache
+C:\Users\makis\OneDrive\Pulpit\hangman\wisielec\wisielec\obj\Debug\net6.0\ref\wisielec.dll
